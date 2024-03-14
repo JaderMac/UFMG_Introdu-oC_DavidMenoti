@@ -8,8 +8,15 @@ segunda letra de cada string.
 int main()
 {
     char charDigitado;
-    printf("Digite um caractere");
+    char stringDigitada[99];
+
+    printf("Digite um caractere : ");
     scanf("%c", &charDigitado);
-    printf("Valor digitado em ASCII é %d", charDigitado);
+    printf("\nValor digitado em ASCII é %d", charDigitado);
+
+    printf("\nDigite uma palavra.");
+    gets(stringDigitada);
+    printf("\nA segunda letra é : %c", stringDigitada[1]);
+
     return(0);
 }

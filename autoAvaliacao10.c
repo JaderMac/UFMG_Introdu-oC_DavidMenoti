@@ -1,5 +1,5 @@
 /**
-Refaça o programa da seção anterior (4.3). Use o comando ZKLOH para fechar o loop.
+Refaça o programa da seção anterior (4.3). Use o comando while para fechar o loop.
 */
 #include <stdio.h>
 #include <string.h>

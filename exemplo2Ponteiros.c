@@ -6,6 +6,7 @@ int main ()
     p=&num; /* Pega o endereco de num */
     printf ("\nValor inicial: %d\n",num);
     *p=100; /* Muda o valor de num de uma maneira indireta */
-    printf ("\nValor final: %d\n",num);
+    printf("\nValor final: %d\n",num);
     return(0);
 }
+

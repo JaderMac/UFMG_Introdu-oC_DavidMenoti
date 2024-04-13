@@ -9,11 +9,11 @@ void StrCpy (char *destino,char *origem)
     }
     *destino='\0';
 }
-
+/*
 char StrCat(char *destino, char *origem){
     *destino += *origem;
 }
-
+*/
 
 int StrLen(char *str){
     int total=0;

@@ -1,0 +1,6 @@
+# arquivos executáveis
+*.exe
+# arquivos json
+*.json
+# arquivo que uso pra testar
+provisorio.c

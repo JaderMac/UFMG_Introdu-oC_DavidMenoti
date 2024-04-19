@@ -1,3 +1,7 @@
+/*
+Pra funcionar precisa criar um projeto no Rhide.
+www.rhide.com
+*/
 #include <stdio.h>
 #include "autoAvaliacao23.1.h"
 void main ()
